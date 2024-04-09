@@ -1,4 +1,4 @@
-# 42cursus_minishell
+# minishell
 As beautiful as a shell. This project aims to create a minimal shell that can interpret and execute basic Unix operating system commands. GNU Bash 3.2 has been taken as a reference, as it is the default version on macOS for 42Madrid computers.
 
 This recreation of Bash supports redirections (<, >, <<, >>), pipes ( | ), single and double quotes, environment variables expansion and signals such as CTRL-D, CTRL-C and CTRL-\\. Also, we had to recreate as Builtin this list of commands: echo (with -n option), cd, pwd, export, unset, env, exit.
