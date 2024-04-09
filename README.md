@@ -1,4 +1,11 @@
 # minishell
+
+[![Intro](https://img.shields.io/badge/Cursus-Minishell-success?style=for-the-badge&logo=42)](https://github.com/raaulalonso/minishell)
+ 
+[![Stars](https://img.shields.io/github/stars/raaulalonso/minishell?color=ffff00&label=Stars&logo=Stars&style=?style=flat)](https://github.com/raaulalonso/minishell)
+[![Size](https://img.shields.io/github/repo-size/raaulalonso/minishell?color=blue&label=Size&logo=Size&style=?style=flat)](https://github.com/raaulalonso/minishell)
+[![Activity](https://img.shields.io/github/last-commit/raaulalonso/minishell?color=red&label=Last%20Commit&style=flat)](https://github.com/raaulalonso/minishell)
+ 
 As beautiful as a shell. This project aims to create a minimal shell that can interpret and execute basic Unix operating system commands. GNU Bash 3.2 has been taken as a reference, as it is the default version on macOS for 42Madrid computers.
 
 This recreation of Bash supports redirections (<, >, <<, >>), pipes ( | ), single and double quotes, environment variables expansion and signals such as CTRL-D, CTRL-C and CTRL-\\. Also, we had to recreate as Builtin this list of commands: echo (with -n option), cd, pwd, export, unset, env, exit.
