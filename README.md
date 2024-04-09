@@ -18,10 +18,10 @@ You can see the subject [**HERE.**](https://github.com/MGuardia10/42cursus/blob/
 
 1- Clone this repository
 	
-	git clone https://github.com/MGuardia10/42cursus_minishell.git
+	git clone https://github.com/raaulalonso/minishell.git minishell
 2- Navigate to the new directory and run `make`
 	
-	cd 42cursus_minishell
+	cd minishell
    	make
 3- Start the shell, no parameters needed:
 
