@@ -43,4 +43,4 @@ The minishell program comes with a Makefile that includes the following rules:
 - `fclean`: removes obj directory with objects files and minishell binary.
 
 ## Disclaimer
-> At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/MGuardia10/42cursus/blob/main/subjects/en/norm_en.pdf), the school's coding standard. As a result, the implementation of certain parts may appear strange and for sure had room for improvement.
+> At [42School](https://en.wikipedia.org/wiki/42_(school)), almost every project must be written in accordance to the [Norm](https://github.com/42School/norminette/blob/a9e1a3dde004b4f997194b3594292a7ee6eb49b3/pdf/en.norm.pdf), the school's coding standard. As a result, the implementation of certain parts may appear strange and for sure had room for improvement.
